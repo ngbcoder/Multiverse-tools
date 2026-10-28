@@ -1,0 +1,9 @@
+# Build artifacts
+*.exe
+*.vdi
+*.vhd
+*.iso
+# Temp/generated
+diskpart.txt
+theme_output/
+*.log

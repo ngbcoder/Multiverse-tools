@@ -1,0 +1,6 @@
+{
+  "theme_name": "ventoy-adwaita",
+  "timeout": 10,
+  "persistence": true,
+  "auto_install": false
+}
